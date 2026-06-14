@@ -127,7 +127,7 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Mohammed Sofiyan Pasha 
+**Mohammed Sofiyan Pasha**
 B.Tech Information Technology
 Kakatiya Institute of Technology & Science (KITSW), Warangal
 Internship Major Project — XtraGrad Pvt Ltd
